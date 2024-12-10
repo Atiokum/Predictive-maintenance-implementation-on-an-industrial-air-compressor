@@ -1,0 +1,1 @@
+# Predictive-maintenance-implementation-on-an-industrial-air-compressor
